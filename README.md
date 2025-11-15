@@ -39,7 +39,7 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ### 🌐 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/gautam_r5)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
@@ -91,9 +91,9 @@ I love building clean, modern web applications and solving challenging algorithm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham2411&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://streak-stats.demolab.com?user=Pratham2411&theme=tokyonight&hide_border=false" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2411&layout=compact&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KunalGautam-27&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=KunalGautam-27&theme=tokyonight&hide_border=false" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalGautam-27&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
 
@@ -110,8 +110,8 @@ I love building clean, modern web applications and solving challenging algorithm
 ## 📫 Contact
 
 - 🌐 Portfolio: *(coming soon)*  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/prathamraj2411/)*  
-- 📧 Email: *(prathamraj2411@gmail.com)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/gautamraj/)*  
+- 📧 Email: *(gautamprimary5@gmail.com)*  
 
 ---
 
