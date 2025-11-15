@@ -1,11 +1,11 @@
 <!-- =============================== HEADER =============================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=8492A6&background=15151500&center=true&vCenter=true&random=false&width=1100&lines=Hi+there%2C+I'm+Pratham+Raj;Competitive+Programmer+%26+Full+Stack+Developer;Building+Future-Ready+Tech+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=8492A6&background=15151500&center=true&vCenter=true&random=false&width=1100&lines=Hi+there%2C+I'm+Gautam+Raj;Competitive+Programmer+%26+Full+Stack+Developer;Building+Future-Ready+Tech+Every+Day" alt="Typing SVG"/>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathamraj&format=true" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gautamraj&format=true" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I’m **Pratham Raj**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Electrical Engineering at NIT Patna (2023–27)**.
+I’m **Gautam Raj**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Electrical Engineering at NIT Patna (2023–27)**.
 
 I love building clean, modern web applications and solving challenging algorithmic problems to sharpen my logical thinking.
 
@@ -24,7 +24,7 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ## 🏆 Achievements
 
-- 🥇 **National Science Olympiad (NSO) – Gold Medalist**  
+
 - 🥇 **District Topper (Class 12th)**   
 - 🔥 Active Member — **GDSC** & **TESLA**, NIT Patna  
 
